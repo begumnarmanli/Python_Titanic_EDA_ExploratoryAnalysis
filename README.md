@@ -1,4 +1,4 @@
-# Python_Titanic_EDA_Exploratory_Analysis
+# Python_Titanic_EDA_Exploratory_Analysis  🛳️
 
 ![titanic](https://github.com/begumnarmanli/python-titanic-eda-kesifsel-analiz/assets/159467416/7f835afd-37ef-4374-be8d-89c85639581f)
 
