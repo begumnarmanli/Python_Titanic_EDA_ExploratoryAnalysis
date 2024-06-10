@@ -20,4 +20,6 @@ More than one library was used. Libraries used are:
 
 
 => Seaborn
- data source: https://www.kaggle.com/datasets/yasserh/titanic-dataset
+
+
+ Data Source: https://www.kaggle.com/datasets/yasserh/titanic-dataset
